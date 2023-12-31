@@ -4,7 +4,7 @@
 
 ### 🛠 Requisites
 
-Before starting, you will need to have the following tools installed on your machine::
+Before starting, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [.NET](https://dotnet.microsoft.com/download) and [GitHubDesktop](https://desktop.github.com/). 
 Furthermore, it is good to have an editor to work with the code like: [VSCode](https://code.visualstudio.com/)
 
